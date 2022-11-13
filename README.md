@@ -25,7 +25,9 @@ You'll have to fork this Github Repository. Then go ahead and create a new Repli
 <div align="center">
 <h1 align="center">Hosting 24/7</h1>
   To host your account for 24 hours a day for free. You're able to host your account on <a href="https://uptimerobot.com/?rid=2cef0af186a621">uptimerobot.com</a> 
-  
+ 
+ ![image](https://cdn.discordapp.com/attachments/1025926914478706740/1041286556025114714/image.png)
+
    </p>
 <div align="center">
 <h1 align="center">Security Warning!</h1>
